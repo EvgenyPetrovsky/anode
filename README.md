@@ -1,5 +1,5 @@
 # anode
-Anomaly Detection in processes
+Anomaly Detection workflows
 
 ## Purpose
 
