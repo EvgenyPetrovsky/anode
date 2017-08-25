@@ -1,3 +1,7 @@
+# Corporate files
+*.config
+*.sql
+
 # History files
 .Rhistory
 .Rapp.history
